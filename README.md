@@ -40,15 +40,15 @@ forward to honing my skills in a challenging environment.<br/>
 
 <br />
 
-<h2 align="center">Languages and Tools:</h2>
-<br>
-<p align="center">
-    <img src="https://www.logo.wine/a/logo/Microsoft_Excel/Microsoft_Excel-Logo.wine.svg" alt="Excel" style="max-width: 55px; height: auto; margin-right: 15px;"/>
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQehluBNF3SKu2CBgVRJ9vNOEyMvCOaRoucy2ptwp0-OuPc7PltV-fbT2WIJOTnzPy1wEs&usqp=CAU" alt="Bootstrap" style="max-width: 55px; height: auto; margin-right: 15px;"/>
-    <img src="https://cdn.worldvectorlogo.com/logos/python-3.svg" alt="Python" style="max-width: 55px; height: auto; margin-right: 15px;"/>
-    <img src="https://www.svgrepo.com/show/354099/mysql.svg" alt="MySQL" style="max-width: 55px; height: auto; margin-right: 15px;"/>
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" style="max-width: 55px; height: auto; margin-left: 15px;"/>
-</p>
+<span><h2 align="center">Languages and Tools:</h2>
+  <br>
+  <p align="center">
+      <img src="https://www.logo.wine/a/logo/Microsoft_Excel/Microsoft_Excel-Logo.wine.svg" alt="bootstrap" width="55" height="55"/>
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQehluBNF3SKu2CBgVRJ9vNOEyMvCOaRoucy2ptwp0-OuPc7PltV-fbT2WIJOTnzPy1wEs&usqp=CAU" alt="bootstrap" width="55" height="55"/>
+      <img src="https://cdn.worldvectorlogo.com/logos/python-3.svg" alt="bootstrap" width="55" height="55"/>
+      <img src="https://www.svgrepo.com/show/354099/mysql.svg" alt="MySQL"  height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55" marginleft="15"/>
+</p></span>
 
 
 <br/>
