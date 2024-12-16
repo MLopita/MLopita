@@ -47,7 +47,6 @@ forward to honing my skills in a challenging environment.<br/>
       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQehluBNF3SKu2CBgVRJ9vNOEyMvCOaRoucy2ptwp0-OuPc7PltV-fbT2WIJOTnzPy1wEs&usqp=CAU" alt="bootstrap" width="200" height="200"/>
       <img src="https://www.svgrepo.com/show/354099/mysql.svg" alt="MySQL"  height="200"/>
       <img src="https://cdn.worldvectorlogo.com/logos/python-3.svg" alt="bootstrap" width="150" height="200"/>
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="200" height="200" marginleft="50"/>
 </p></span>
 
 
