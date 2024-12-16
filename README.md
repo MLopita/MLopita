@@ -43,7 +43,7 @@ forward to honing my skills in a challenging environment.<br/>
 <span><h2 align="center">Languages and Tools:</h2>
   <br>
   <p align="center">
-      <img src="https://www.logo.wine/a/logo/Microsoft_Excel/Microsoft_Excel-Logo.wine.svg" alt="bootstrap" width="150" height="150"/>
+      <img src="https://www.logo.wine/a/logo/Microsoft_Excel/Microsoft_Excel-Logo.wine.svg" alt="bootstrap" width="200" height="200"/>
       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQehluBNF3SKu2CBgVRJ9vNOEyMvCOaRoucy2ptwp0-OuPc7PltV-fbT2WIJOTnzPy1wEs&usqp=CAU" alt="bootstrap" width="200" height="200"/>
       <img src="https://cdn.worldvectorlogo.com/logos/python-3.svg" alt="bootstrap" width="150" height="200"/>
       <img src="https://www.svgrepo.com/show/354099/mysql.svg" alt="MySQL"  height="200"/>
