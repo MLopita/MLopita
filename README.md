@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 
-I'm [Lopita](https://github.com/MLopita), An Aspiring Aspiring Business Intelligence Analyst with a specialization in data analysis, visualization, and reporting using Power BI, Excel, and SQL with a passion for learning with an endless supply of optimism and curiosity.
+I'm [Lopita](https://github.com/MLopita), An Aspiring Business Intelligence Analyst with a specialization in data analysis, visualization, and reporting using Power BI, Excel, and SQL with a passion for learning with an endless supply of optimism and curiosity.
 
 
 Having adequate skills, self motivated and
